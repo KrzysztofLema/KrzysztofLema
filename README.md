@@ -104,7 +104,7 @@ I specialize in building iOS applications with modern development tools, framewo
 
 ## 🌊 Outside of Development
 
-When I’m not coding, you’ll often find me on the water or in the sky! I’m a **Yacht Skipper**, and one of my most memorable experiences was sailing on the historic **STS Pogoria**. This journey deepened my love for the sea and enhanced my leadership and teamwork skills, especially when navigating challenging conditions.
+When I’m not coding, you’ll often find me on the water or in the sky! I’m a **Yacht Skipper**, and one of my most memorable experiences was sailing on the **STS Pogoria**. This journey deepened my love for the sea and enhanced my leadership and teamwork skills, especially when navigating challenging conditions.
 
 In addition to sailing, I’m currently working towards my **PPL(A) Pilot License**, a pursuit that connects with my passion for sailing and encompasses **Safety**, **Navigation**, **Meteorology**, **Aerodynamics**, and a lot more. The skills I develop in aviation—particularly in navigation and decision-making under pressure—complement my sailing experience and provide a well-rounded approach to problem-solving, whether in the air or on the water.
 
