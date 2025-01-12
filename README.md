@@ -5,7 +5,6 @@
 
 Hi there! I'm Krzysztof, an experienced iOS developer passionate about creating engaging and innovative applications. With a background in project management, I excel in collaborating with cross-functional teams, solving complex problems, and driving improvements.
 
----
 
 ## 🛠 What I Do
 
@@ -15,7 +14,6 @@ I specialize in building iOS applications with modern development tools, framewo
 - **Java Spring Applications**
 - **React Native**, including a player framework written in Swift
 
----
 
 ## 🧰 Technologies I Work With
 
@@ -25,7 +23,6 @@ I specialize in building iOS applications with modern development tools, framewo
 - **Package Management**: Swift Package Manager (SPM), CocoaPods  
 - **Other Tools**: Combine, AVPlayer, MapKit, Firebase  
 
----
 
 ## 📱 Notable Projects
 
@@ -37,7 +34,6 @@ I specialize in building iOS applications with modern development tools, framewo
 - **Blackberry Work** (iOS Native)  
 - **Fieldcode FMA** (iOS Native)  
 
----
 
 ## 🎓 Education & Certifications
 
@@ -52,7 +48,6 @@ I specialize in building iOS applications with modern development tools, framewo
 - **Agile PM Foundation** (2018)  
 - **Requirements Management and Business Analysis** (2021)  
 
----
 
 ## 🏆 Key Skills
 
@@ -64,7 +59,6 @@ I specialize in building iOS applications with modern development tools, framewo
 - Reactive Programming with Combine  
 - Problem Solving & Continuous Improvement  
 
----
 
 ## 👨‍💻 Professional Experience
 
@@ -89,7 +83,6 @@ I specialize in building iOS applications with modern development tools, framewo
 - Built an application for field service teams, transitioning the app from UIKit to SwiftUI.  
 - Integrated Combine for handling asynchronous events.  
 
----
 
 ## 📚 Resources I Learn From
 
@@ -99,7 +92,6 @@ I specialize in building iOS applications with modern development tools, framewo
 - [Swiftystack](https://www.swiftystack.com)  
 - [Swiftful Thinking](https://www.swiftful-thinking.com)  
 
----
 
 ## 📞 Contact Me
 
@@ -108,6 +100,5 @@ I specialize in building iOS applications with modern development tools, framewo
 - 🌐 **GitHub**: [github.com/KrzysztofLema](https://github.com/KrzysztofLema)  
 - 📱 **Phone**: +48 602-681-879  
 
----
 
 Thank you for visiting my profile! 😊
