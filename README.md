@@ -26,6 +26,7 @@ I specialize in building iOS applications with modern development tools, framewo
 
 ## 📱 Notable Projects
 
+- **Orlen Charge (iOS Native)
 - **Redge Media Portal** (tvOS Native & iOS React Native)  
 - **Redge Media Player Framework** (iOS & Apple TV)  
 - **TVP VOD** (tvOS Native)  
