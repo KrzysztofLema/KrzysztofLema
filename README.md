@@ -64,8 +64,9 @@ I specialize in building iOS applications with modern development tools, framewo
 
 ### **Software Developer | Miquido**  
 *2024.11 – 2025.01*  
-- Developed software for a leading Polish company in the fuel sector.  
-- Contributed to an electromobility project, delivering a minimum viable product.  
+- Developed software solutions for a leading Polish company in the fuel sector, focusing on electromobility.
+- Delivering a minimum viable product (MVP) within a tight deadline.
+- Worked closely with a cross-functional team to implement features.
 
 ### **Software Developer | Redge Technologies**  
 *2022 – 2024.05*  
