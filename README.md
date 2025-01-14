@@ -99,7 +99,7 @@ I specialize in building iOS applications with modern development tools, framewo
 
 - 📍 **Location**: Wroclaw, Poland  
 - 📧 **Email**: [KrzysztofLema@iCloud.com](mailto:KrzysztofLema@iCloud.com)  
-- 🌐 **GitHub**: [github.com/KrzysztofLema](https://github.com/KrzysztofLema)  
+- 🌐 **linkedIn**: [linkedin.com/in/krzysztof-lema/]((https://www.linkedin.com/in/krzysztof-lema/))  
 - 📱 **Phone**: +48 602-681-879  
 
 ## 🌊 Outside of Development
